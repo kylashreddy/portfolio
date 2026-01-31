@@ -172,20 +172,20 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Optimized Electricity Restoration System',
         description: 'Developed a system to optimize electricity restoration using Python, Dijkstra algorithm, and NetworkX for efficient power grid recovery.',
-        link: 'https://github.com/kylashreddy/optimized-electricity-restoration', // Placeholder link
+        link: 'https://github.com/kylashreddy/', // Placeholder link
     },
     {
         iconUrl: threads, // Placeholder
         theme: 'btn-back-green',
         name: 'Student Library Informative Website',
         description: 'Created an informative website for the student library under Prof. Swomya, using ReactJS, PHP, and MySQL to manage library resources.',
-        link: 'https://github.com/kylashreddy/student-library-website', // Placeholder link
+        link: 'https://github.com/kylashreddy/Student-Library-system', // Placeholder link
     },
     {
         iconUrl: car, // Placeholder
         theme: 'btn-back-blue',
         name: 'College Bus Pass Management System',
         description: 'Built a management system for college bus passes using ReactJS, NodeJS, MongoDB, and Express to streamline pass issuance and tracking.',
-        link: 'https://github.com/kylashreddy/bus-pass-management', // Placeholder link
+        link: 'https://buss-passfinal-chi.vercel.app/', // Placeholder link
     },
 ];
